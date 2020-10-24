@@ -1,3 +1,3 @@
-from django.contrib import admin
+# from djangocontrib import admin
 
 # Register your models here.
